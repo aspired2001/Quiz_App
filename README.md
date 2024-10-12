@@ -1,43 +1,3 @@
-# Quiz App
-
-A simple quiz application built with a Node.js backend and a React frontend. This application allows users to register, log in, take quizzes, and view results.
-
-## Table of Contents
-- [Demo Credentials](#demo-credentials)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [License](#license)
-- [Project Structure](#project-structure)
-
-## Demo Credentials
-You can log in using the following demo credentials:
-- **Email:** `demo@example.com`
-- **Password:** `Demo@123`
-
-## Features
-- User authentication (login, register)
-- Take quizzes and view results
-- Admin functionality to manage quizzes
-- Responsive design using Tailwind CSS
-
-## Tech Stack
-- **Backend:** Node.js, Express, MongoDB
-- **Frontend:** React, Tailwind CSS, Axios
-- **Database:** MongoDB
-- **Authentication:** JSON Web Tokens (JWT)
-
-## Getting Started
-
-### Backend Setup
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/quiz-app.git
-   cd quiz-app/backend
 Install dependencies:
 
 bash
@@ -154,18 +114,3 @@ quiz-app/
     │   ├── tailwind.config.js
     │   └── package.json
     └── README.md
-markdown
-Copy code
-
-### Instructions to Use
-1. **Copy the Markdown code above.**
-2. **Create a new file named `README.md`** in your project directory.
-3. **Paste the copied Markdown code** into the `README.md` file.
-4. You can view the rendered Markdown in any Markdown viewer or on platforms like GitHub.
-
-This complete Markdown format includes all sections, making it easy to read and understand. Let me know if you need any further adjustments!
-
-
-
-
-
