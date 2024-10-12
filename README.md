@@ -1,39 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz App README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-left: 4px solid #ccc;
-            overflow-x: auto;
-        }
-        code {
-            font-family: 'Courier New', Courier, monospace;
-            background-color: #f8f8f8;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-    </style>
-</head>
-<body>
+
+
 
     <h1>Quiz App</h1>
 
@@ -162,5 +128,4 @@ JWT_SECRET=your_jwt_secret</code></pre>
     <h2 id="license">License</h2>
     <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-</body>
-</html>
+
